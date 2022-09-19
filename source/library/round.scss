@@ -1,0 +1,21 @@
+@import "../includes/variables";
+
+@for $i from 0 to $max-count {
+  [r#{$i}] { border-radius: #{$i * 2}px }
+  [rl#{$i}] {
+    border-top-left-radius: #{$i}px;
+    border-bottom-left-radius: #{$i * 2}px;
+  }
+  [rr#{$i}] {
+    border-top-right-radius: #{$i}px;
+    border-bottom-right-radius: #{$i * 2}px;
+  }
+  [rb#{$i}] {
+    border-bottom-left-radius: #{$i}px;
+    border-bottom-right-radius: #{$i * 2}px;
+  }
+  [rt#{$i}] {
+    border-top-left-radius: #{$i}px;
+    border-top-right-radius: #{$i * 2}px;
+  }
+}

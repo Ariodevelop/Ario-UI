@@ -1,0 +1,14 @@
+@mixin flex {
+  display: flex;
+  dynamic- { flex: 1 1 }
+   shrink- { flex: 0 1 }
+    fixed- { flex: 0 0 }
+     grow- { flex: 0 1 }
+}
+
+column-, row-, flex-, [flex] ,[row] {
+  @include flex;
+}
+column-, [column]{
+  flex-direction: column;
+}

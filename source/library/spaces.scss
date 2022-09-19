@@ -1,0 +1,35 @@
+@import '../includes/variables';
+
+@for $i from 0 to $max-count {
+  
+  //Padding attribute
+  [p#{$i}]{padding: #{$i*2}px;} 
+  [p#{$i}]{padding-left: #{$i*2}px;} 
+  [p#{$i}]{padding-right: #{$i*2}px;} 
+  [p#{$i}]{padding-top: #{$i*2}px;} 
+  [p#{$i}]{padding-bottom: #{$i*2}px;} 
+  [px#{$i}]{padding-bottom: #{$i*2}px;padding-top: #{$i*2}px;}
+  [py#{$i}]{padding-left: #{$i*2}px;padding-right: #{$i*2}px;}
+
+  //Gap attribute
+  [g#{$i}]{gap: #{$i}px;}
+  [gx#{$i}]{row-gap: #{$i}px;}
+  [gy#{$i}]{column-gap: #{$i}px;}
+
+  //Margin attributes
+  [m#{$i}]{margin: #{$i*2}px;} 
+  [m#{$i}]{margin-left: #{$i*2}px;} 
+  [m#{$i}]{margin-right: #{$i*2}px;} 
+  [m#{$i}]{margin-top: #{$i*2}px;} 
+  [m#{$i}]{margin-bottom: #{$i*2}px;} 
+  [mx#{$i}]{margin-bottom: #{$i*2}px;margin-top: #{$i*2}px;}
+  [my#{$i}]{margin-left: #{$i*2}px;margin-right: #{$i*2}px;}
+}
+//Margin attribute auto
+[ma]{margin: auto;}
+[mla]{margin-left: auto;}
+[mra]{margin-right: auto;}
+[mta]{margin-top: auto;}
+[mba]{margin-bottom: auto;}
+[mxa]{margin-left: auto;margin-right: auto;}
+[mya]{margin-bottom: auto;margin-top: auto;}

@@ -1,0 +1,13 @@
+button {
+  --color:#
+  -webkit-appearance: button;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+  padding: 8px;
+}
+
+button[outline] {
+  border: --cu;
+}

@@ -1,0 +1,19 @@
+column-, row-, flex-, [flex], [row] {
+  display: flex;
+}
+column- dynamic-, row- dynamic-, flex- dynamic-, [flex] dynamic-, [row] dynamic- {
+  flex: 1 1;
+}
+column- shrink-, row- shrink-, flex- shrink-, [flex] shrink-, [row] shrink- {
+  flex: 0 1;
+}
+column- fixed-, row- fixed-, flex- fixed-, [flex] fixed-, [row] fixed- {
+  flex: 0 0;
+}
+column- grow-, row- grow-, flex- grow-, [flex] grow-, [row] grow- {
+  flex: 0 1;
+}
+
+column-, [column] {
+  flex-direction: column;
+}

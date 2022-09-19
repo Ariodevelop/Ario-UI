@@ -1,0 +1,167 @@
+[r0] {
+  border-radius: 0px;
+}
+
+[rl0] {
+  border-top-left-radius: 0px;
+  border-bottom-left-radius: 0px;
+}
+
+[rr0] {
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 0px;
+}
+
+[rb0] {
+  border-bottom-left-radius: 0px;
+  border-bottom-right-radius: 0px;
+}
+
+[rt0] {
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+}
+
+[r1] {
+  border-radius: 2px;
+}
+
+[rl1] {
+  border-top-left-radius: 1px;
+  border-bottom-left-radius: 2px;
+}
+
+[rr1] {
+  border-top-right-radius: 1px;
+  border-bottom-right-radius: 2px;
+}
+
+[rb1] {
+  border-bottom-left-radius: 1px;
+  border-bottom-right-radius: 2px;
+}
+
+[rt1] {
+  border-top-left-radius: 1px;
+  border-top-right-radius: 2px;
+}
+
+[r2] {
+  border-radius: 4px;
+}
+
+[rl2] {
+  border-top-left-radius: 2px;
+  border-bottom-left-radius: 4px;
+}
+
+[rr2] {
+  border-top-right-radius: 2px;
+  border-bottom-right-radius: 4px;
+}
+
+[rb2] {
+  border-bottom-left-radius: 2px;
+  border-bottom-right-radius: 4px;
+}
+
+[rt2] {
+  border-top-left-radius: 2px;
+  border-top-right-radius: 4px;
+}
+
+[r3] {
+  border-radius: 6px;
+}
+
+[rl3] {
+  border-top-left-radius: 3px;
+  border-bottom-left-radius: 6px;
+}
+
+[rr3] {
+  border-top-right-radius: 3px;
+  border-bottom-right-radius: 6px;
+}
+
+[rb3] {
+  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 6px;
+}
+
+[rt3] {
+  border-top-left-radius: 3px;
+  border-top-right-radius: 6px;
+}
+
+[r4] {
+  border-radius: 8px;
+}
+
+[rl4] {
+  border-top-left-radius: 4px;
+  border-bottom-left-radius: 8px;
+}
+
+[rr4] {
+  border-top-right-radius: 4px;
+  border-bottom-right-radius: 8px;
+}
+
+[rb4] {
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 8px;
+}
+
+[rt4] {
+  border-top-left-radius: 4px;
+  border-top-right-radius: 8px;
+}
+
+[r5] {
+  border-radius: 10px;
+}
+
+[rl5] {
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 10px;
+}
+
+[rr5] {
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 10px;
+}
+
+[rb5] {
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 10px;
+}
+
+[rt5] {
+  border-top-left-radius: 5px;
+  border-top-right-radius: 10px;
+}
+
+[r6] {
+  border-radius: 12px;
+}
+
+[rl6] {
+  border-top-left-radius: 6px;
+  border-bottom-left-radius: 12px;
+}
+
+[rr6] {
+  border-top-right-radius: 6px;
+  border-bottom-right-radius: 12px;
+}
+
+[rb6] {
+  border-bottom-left-radius: 6px;
+  border-bottom-right-radius: 12px;
+}
+
+[rt6] {
+  border-top-left-radius: 6px;
+  border-top-right-radius: 12px;
+}
